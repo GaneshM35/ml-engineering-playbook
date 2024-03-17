@@ -6,6 +6,7 @@ mlflow
 scikit-learn
 dvc
 ipykernel
+xgboost
 
 # dev requirements -
 
